@@ -5,3 +5,5 @@
 /srl_output_bartleby.csv
 /srl.tar.gz
 /coref.tar.gz
+/srl/*
+/.venv/*
