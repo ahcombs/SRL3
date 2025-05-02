@@ -53,8 +53,8 @@ sentence_ID,verb,agent,patient
 770,put,Piglet,Piglet
 774,see,Piglet,Christopher Robin
 802,push,Piglet,Piglet
-818,hurt,Eeyore,Eeyore
 818,burst,Eeyore,Piglet
+818,hurt,Eeyore,Eeyore
 839,open,Piglet,Piglet
 875,nod,Pooh,Pooh
 877,call,Pooh,Pooh
@@ -68,24 +68,24 @@ sentence_ID,verb,agent,patient
 1017,pick,Rabbit,Kanga
 1035,look,Pooh,Kanga
 1044,unbuttoned,Kanga,Kanga
-1045,think,Kanga,Kanga
 1045,know,Kanga,Kanga
+1045,think,Kanga,Kanga
 1056,see,Kanga,Piglet
 1081,say,Kanga,Piglet
 1082,shake,Christopher Robin,Christopher Robin
 1129,put,Christopher Robin,Christopher Robin
 1130,spruce,Christopher Robin,Christopher Robin
 1278,suppose,Rabbit,Rabbit
-1287,washing,Kanga,Piglet
 1287,wash,Piglet,Piglet
+1287,washing,Kanga,Piglet
 1309,say,Kanga,Piglet
 1310,think,Pooh,Kanga
 1352,think,Christopher Robin,Eeyore
 1355,see,Pooh,Christopher Robin
 1373,imagine,Piglet,Piglet
 1386,get,Owl,Bear
-1417,dangle,Pooh,Pooh
 1417,take,Pooh,Pooh
+1417,dangle,Pooh,Pooh
 1428,find,Pooh,Christopher Robin
 1435,drop,Pooh,Pooh
 1441,see,Pooh,Pooh
